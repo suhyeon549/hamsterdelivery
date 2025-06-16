@@ -253,7 +253,7 @@ if (page === 'ep05_intro') {
 
         // 페이드아웃 완료 후 1.5초 뒤 ep05.html로 이동
         setTimeout(() => {
-          window.location.href = 'ep05.html'; // 소문자 주의!
+          window.location.href = 'Ep05.html'; // 소문자 주의!
         }, 1500);
       }, 3000);
     }
@@ -316,7 +316,7 @@ if (page === 'ep06_intro') {
 
         // 페이드아웃 완료 후 1.5초 뒤 ep05.html로 이동
         setTimeout(() => {
-          window.location.href = 'ep06.html'; // 소문자 주의!
+          window.location.href = 'Ep06.html'; // 소문자 주의!
         }, 1500);
       }, 3000);
     }
